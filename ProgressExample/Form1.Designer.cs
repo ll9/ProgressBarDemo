@@ -34,7 +34,7 @@
             // 
             // ProcessButton
             // 
-            this.ProcessButton.Location = new System.Drawing.Point(213, 48);
+            this.ProcessButton.Location = new System.Drawing.Point(32, 21);
             this.ProcessButton.Name = "ProcessButton";
             this.ProcessButton.Size = new System.Drawing.Size(106, 23);
             this.ProcessButton.TabIndex = 0;
@@ -44,7 +44,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(213, 123);
+            this.textBox1.Location = new System.Drawing.Point(32, 96);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 1;
@@ -53,7 +53,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(355, 403);
+            this.ClientSize = new System.Drawing.Size(183, 201);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.ProcessButton);
             this.Name = "Form1";
